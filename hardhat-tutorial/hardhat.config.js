@@ -9,7 +9,7 @@ module.exports = {
   networks: {
     goerli: {
       url: "https://wiser-boldest-dinghy.ethereum-goerli.discover.quiknode.pro/3b4dad711e3622a1da2413c5c3a70ce0f5307972/",
-      accounts: ["a66a54f885be5a49885f3f8a179f092f9d52e1018234b375fcfbf6cabbd37a05"],
+      accounts: ["b4965a347e4e3fd9b05a53a638613979ec61b83183ad6ef688b88f4016769962"],
     },
   },
 };
